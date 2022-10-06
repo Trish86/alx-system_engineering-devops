@@ -1,3 +1,4 @@
-Bring me home
+Display current directory in long format
+
 
 
