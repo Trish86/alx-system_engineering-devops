@@ -1,4 +1,4 @@
-Duplicate last line
+No more javascript
 
 
 
